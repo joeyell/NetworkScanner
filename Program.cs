@@ -1,7 +1,5 @@
 ﻿using System.Net.NetworkInformation;
 
-// 149.50.209.152
-
 namespace NetworkScanner
 {
    internal static class Program
